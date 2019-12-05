@@ -1,0 +1,12 @@
+a = input('what is your nationality')
+print (a)
+n = input('Where is your dream location for a vacation')
+print (n)
+d = input('what is your full name')
+print (d)
+r = input('what do you like to do during the summer')
+print (r)
+e = input('what is your dream job')
+print (e)
+
+print("My full name is " + d + ", I am from " + a + ", I like to " + r + ", My dream location for a vacation is " + n + ", My dream job is " + e )  
